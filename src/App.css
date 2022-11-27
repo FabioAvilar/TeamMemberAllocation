@@ -1,5 +1,8 @@
-main {
-  text-align: center;
-  vertical-align: center;
-  line-height: 100vh
+body {
+  font-family:  Arial;
+}
+
+.card-collection {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
 }
